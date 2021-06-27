@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Enemi 3
+  m_Controller: {fileID: 9100000, guid: f8f8dff0fd8efd24b801a065e64fb8d2, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: f2c81d80e6ac02145b25aa9393272dc0, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 6bd76e3c1e7ab2c489dea9eb39112a7c, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 374d84b9f9bf74c4192e012119839dac, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 2f882d706b91d7a4ea4de9f85364cb9a, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: e559bb8adfa2cfa4a8716cb6acdabab9, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 5f76dd32b806d554d9a75ce49720e5de, type: 2}
